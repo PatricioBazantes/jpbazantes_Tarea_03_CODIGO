@@ -20,7 +20,7 @@ function validar() {
 		return false;
 	}else {
 		alert("Datos enviados correctamente");
-		document.getElementById("login").action="https://www.facebook.com/";
+		document.getElementById("login").action="https://patriciobazantes.github.io/jpbazantes_Tarea_03_CODIGO/index.html";
 	}
 }
 function checkSubmit() {
